@@ -155,7 +155,6 @@ ServiceHive/
 ├── tools.py              # mock_lead_capture + email validation
 ├── app.py                # Streamlit web UI
 ├── main.py               # Interactive CLI
-├── demo.py               # Scripted end-to-end demo
 ├── knowledge_base.json   # Pricing, features, policies (RAG source)
 ├── requirements.txt
 ├── .env.example
